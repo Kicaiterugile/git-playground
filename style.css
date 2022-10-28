@@ -23,6 +23,7 @@ nav {
     grid-template-columns: 100px 100px;
     gap: 240px;
     border-radius: 100px;
+}
     
 .textcolor {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
