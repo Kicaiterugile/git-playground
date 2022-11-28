@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Numbers_kontrolinis/Numbers_kontrolinis.iml" filepath="$PROJECT_DIR$/Numbers_kontrolinis/Numbers_kontrolinis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rugileGIT.iml" filepath="$PROJECT_DIR$/.idea/rugileGIT.iml" />
+    </modules>
+  </component>
+</project>
